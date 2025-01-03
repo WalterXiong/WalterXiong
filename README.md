@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![Miku](./124859659_p0.jpg)
 
-<details>
+<!--<details>-->
 
-## Hi👋, I'm WalterXiong 
+## Hi👋, I'm WalterXiong  
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WalterXiong&theme=dark&show_icons=true">
@@ -43,5 +43,18 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
+
+### My Activity
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalterXiong&theme=github-compact)
+
+## Star History
+
+<a href="https://star-history.com/#WalterXiong/WalterXiong&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WalterXiong/WalterXiong&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WalterXiong/WalterXiong&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=WalterXiong/WalterXiong&type=Date" />
+ </picture>
+</a>
 
 </details>
