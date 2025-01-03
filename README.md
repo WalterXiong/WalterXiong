@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![Miku](./124859659_p0.jpg)
 
-<!--<details>-->
+<details>
 
-## Hi👋, I'm WalterXiong  
+## Hi👋, I'm WalterXiong
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WalterXiong&theme=dark&show_icons=true">
