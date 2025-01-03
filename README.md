@@ -43,6 +43,15 @@ Here are some ideas to get you started:
 ![Metrics](/github-metrics.svg)
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalterXiong/WalterXiong/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalterXiong/WalterXiong/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WalterXiong/WalterXiong/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
 ### Languages and Tools
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
