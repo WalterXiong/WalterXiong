@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ![Miku](/124859659_p0.jpg)
 
-<details>
-
 ## Hi👋, I'm WalterXiong
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WalterXiong&left_color=green&right_color=red)
+-->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WalterXiong&theme=dark&show_icons=true">
@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-
 ![Metrics](/github-metrics.svg)
-
 
 
 <picture>
@@ -57,6 +55,10 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
+
+<details>
+
+
 
 ### My Activity
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalterXiong&theme=github-compact)
