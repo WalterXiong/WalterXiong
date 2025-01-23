@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Miku](/124859659_p0.jpg)
 
+<details>
+
 ## Hi👋, I'm WalterXiong
 
 <!--
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalterXiong/WalterXiong/output/github-contribution-grid-snake-dark.svg">
