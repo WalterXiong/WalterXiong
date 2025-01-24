@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Miku](/124859659_p0.jpg)
+![Miku](/97197008_p0.png)
 
 <details>
 
