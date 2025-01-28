@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-## Hi👋, I'm WalterXiong
+## Hi👋, I'm WalterXiong 2025 新年快乐！
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WalterXiong&left_color=green&right_color=red)
