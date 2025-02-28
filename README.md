@@ -34,11 +34,14 @@ Here are some ideas to get you started:
 - 🛠️ : Java / Kotlin / Python
 - 🌱 : 正在学习 `Kotlin` 和 `Jetpack Compose`
 - 👯 : 我的编程搭子 [Kazusa](https://github.com/KyouyamaKazusa0805)
-- 📫 : 522500824@qq.com / xiongjun-ol@outlook.com / xj13980552439@gmail.com
-- 🔭 : 希望自己能开发一款好用的 App
-- ⚡ : 无限进步
+- 📫 :
+    - 522500824@qq.com
+    - xiongjun-ol@outlook.com
+    - xj13980552439@gmail.com
+- 🔭 : 希望自己能开发出一个好用的 App
+- ⚡ : 无限进步！
 - 😶‍🌫️ : 只要开始追赶，就已经走在胜利的路上！
-- 😈 : .
+- 😈 : ...
 
 ---
 
